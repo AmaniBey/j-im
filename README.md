@@ -2,16 +2,4 @@
  ![1](https://github.com/luojiaju/j-im/blob/main/images/screenshots.gif)
 ![1](https://github.com/luojiaju/j-im/blob/main/images/1.png)
 
-![1](https://github.com/luojiaju/j-im/blob/main/images/2.png)
-
-![1](https://github.com/luojiaju/j-im/blob/main/images/3.png)
-
-![1](https://github.com/luojiaju/j-im/blob/main/images/4.png)
-
-![1](https://github.com/luojiaju/j-im/blob/main/images/5.png)
-
-![1](https://github.com/luojiaju/j-im/blob/main/images/6.png)
-
-![1](https://github.com/luojiaju/j-im/blob/main/images/9.png)
-
-![1](https://github.com/luojiaju/j-im/blob/main/images/10.png)
+<img width="1264" alt="image" src="https://github.com/AmaniBey/j-im/assets/171583026/5fa69e57-5ba6-47d7-8c13-84e38fef5298">
